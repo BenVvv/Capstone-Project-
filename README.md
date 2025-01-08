@@ -1,1 +1,1 @@
-My first capstone project is about bike rental analysis. In this project, I have used multiple linear regression to predict which variables will help a bike rental business to re establish after being impacted by the Covid 19 lockdown.
+In this project, I work as a data analyst for a fictional company named OZ bikes. A bike rental business that was impacted by Covid 19 lockdown. The task is to help the business re establish and expand it's market when the restrictions are lifted.
