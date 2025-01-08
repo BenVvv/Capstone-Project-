@@ -1,1 +1,2 @@
-In this project, I work as a data analyst for a fictional company named OZ bikes. A bike rental business that was impacted by Covid 19 lockdown. The task is to help the business re establish and expand it's market when the restrictions are lifted.
+In this project, I work as a Data Analyst for a fictional company named OZ bikes. A bike rental business that was impacted by Covid 19 lockdowns. The tasks are planning and preparing when restrictions are lifted and predicting what are the variables that strongly relates 
+to the customers demand for bike rental that brings the best value to the business.
