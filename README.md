@@ -31,7 +31,6 @@ Specific objectives included:
 - Building and evaluating a predictive model
 - Generating business recommendations based on analytical findings
 
-【1-6adc96】
 
 ---
 
@@ -55,7 +54,6 @@ Key variables include:
 - Humidity
 - Windspeed
 - Bike Rental Count (`cnt`)
-
 
 
 ---
@@ -136,7 +134,6 @@ The final model was used to predict demand on unseen test data and evaluate perf
 - R² (R-Squared)
 - Adjusted R²
 
-
 ---
 
 ## Key Findings
@@ -146,7 +143,7 @@ The final model was used to predict demand on unseen test data and evaluate perf
 #### 1. Temperature (`temp`)
 Coefficient: **0.5636**
 
-A one-unit increase in temperature corresponds to an increase in bike rental demand, making temperature the strongest positive predictor. 【1-6adc96】
+A one-unit increase in temperature corresponds to an increase in bike rental demand, making temperature the strongest positive predictor. 
 
 #### 2. Adverse Weather Conditions (`weathersit_3`)
 Coefficient: **-0.3070**
@@ -162,7 +159,6 @@ Demand increased year-over-year, indicating growing customer adoption and market
 
 - Season 4 (Winter) → Positive impact
 - Windspeed → Negative impact
-
 
 ---
 
@@ -187,8 +183,6 @@ Demand increased year-over-year, indicating growing customer adoption and market
 
 - Introduce winter-focused promotions
 - Partner with local businesses to create bundled offers
-
-【1-6adc96】
 
 ---
 
