@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project was completed as a capstone data analytics and machine learning project for **OZ Bikes**, a fictional bike rental company operating in Sydney, Australia. The company experienced a significant decline in demand during the COVID-19 lockdowns and sought to prepare for post-pandemic recovery by understanding the key drivers of bike rental demand. 【1-6adc96】
+This project was completed as a capstone data analytics and machine learning project for **OZ Bikes**, a fictional bike rental company operating in Sydney, Australia. The company experienced a significant decline in demand during the COVID-19 lockdowns and sought to prepare for post-pandemic recovery by understanding the key drivers of bike rental demand. 
 
-The objective of this project was to identify the variables that have the strongest relationship with customer demand and build a predictive model that can help management make data-driven decisions to improve business performance and support future growth. 【1-6adc96】
+The objective of this project was to identify the variables that have the strongest relationship with customer demand and build a predictive model that can help management make data-driven decisions to improve business performance and support future growth. 
 
 ---
 
@@ -16,7 +16,7 @@ During the COVID-19 pandemic, OZ Bikes suffered financial losses due to reduced 
 - How future demand can be predicted
 - What business strategies could maximize bookings and profitability
 
-The project focused on leveraging historical rental data to uncover actionable insights for operational planning and business growth. 【1-6adc96】
+The project focused on leveraging historical rental data to uncover actionable insights for operational planning and business growth. 
 
 ---
 
@@ -56,7 +56,7 @@ Key variables include:
 - Windspeed
 - Bike Rental Count (`cnt`)
 
-【1-6adc96】
+
 
 ---
 
@@ -87,7 +87,7 @@ Key variables include:
 - Created dummy variables for categorical features
 - Converted boolean values for modeling
 
-【1-6adc96】
+
 
 ### 2. Exploratory Data Analysis (EDA)
 
@@ -106,7 +106,7 @@ Key findings showed that:
 - Favorable weather conditions increased usage
 - Working days generally experienced higher rental volumes
 
-【1-6adc96】
+
 
 ### 3. Feature Engineering
 
@@ -114,7 +114,7 @@ Key findings showed that:
 - Split data using a 70:30 train-test ratio
 - Applied feature scaling to prevent data leakage
 
-【1-6adc96】
+
 
 ### 4. Model Development
 
@@ -127,7 +127,7 @@ Variables with:
 
 were removed to reduce multicollinearity and improve model performance.
 
-Several model iterations were performed before arriving at the final model. 【1-6adc96】
+Several model iterations were performed before arriving at the final model. 
 
 ### 5. Predictive Modeling
 
@@ -136,7 +136,6 @@ The final model was used to predict demand on unseen test data and evaluate perf
 - R² (R-Squared)
 - Adjusted R²
 
-【1-6adc96】
 
 ---
 
@@ -152,19 +151,18 @@ A one-unit increase in temperature corresponds to an increase in bike rental dem
 #### 2. Adverse Weather Conditions (`weathersit_3`)
 Coefficient: **-0.3070**
 
-Poor weather conditions significantly reduce bike rental demand. 【1-6adc96】
+Poor weather conditions significantly reduce bike rental demand. 
 
 #### 3. Year (`yr`)
 Coefficient: **0.2308**
 
-Demand increased year-over-year, indicating growing customer adoption and market expansion. 【1-6adc96】
+Demand increased year-over-year, indicating growing customer adoption and market expansion. 
 
 ### Other Important Variables
 
 - Season 4 (Winter) → Positive impact
 - Windspeed → Negative impact
 
-【1-6adc96】
 
 ---
 
@@ -204,7 +202,6 @@ The final machine learning model successfully identified the strongest drivers o
 - Strategic planning
 - Business growth initiatives
 
-【1-6adc96】
 
 ---
 
